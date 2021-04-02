@@ -1,0 +1,1 @@
+Simple twitch bot that can read/send message (using commands), plus editing a local file to make your own "Welcome" overlay (i.e : Kappamon), this part of the project is currently not in the git
